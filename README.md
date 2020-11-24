@@ -1,7 +1,7 @@
 # OctaconDeveloper :innocent::innocent:
 
 
-### Republic of PHP and Javascript and the isles of Python :trident::trident:
+### Republic of PHP and Javascript and the isles :trident::trident:
 
 Occassionally visits the island :desert_island::desert_island: of Java through the mountains :mountain_railway::mountain_railway: of Flutter (on stormy :cyclone::cyclone: days)
 
